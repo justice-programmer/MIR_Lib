@@ -27,7 +27,7 @@ Or install manually:
 
 ```bash
 
-pio lib install https://github.com/yourusername/MIR_lib
+pio lib install https://github.com/justice-programmer/MIR_Lib/
 
 ```
 
