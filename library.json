@@ -1,0 +1,27 @@
+{
+  "name": "MIR_lib",
+  "version": "1.0.0",
+  "description": "A lightweight Arduino library for controlling a multi-sensor/motor driver array.",
+  "keywords": [
+    "arduino",
+    "sensor",
+    "robotics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justice-programmer/MIR_Lib.git"
+  },
+  "authors": [
+    {
+      "name": "Justice Programmer",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": ["arduino"],
+  "platforms": ["*"],
+  "examples": [
+    "examples/*/*.ino",
+    "src/main.cpp"
+  ]
+}
